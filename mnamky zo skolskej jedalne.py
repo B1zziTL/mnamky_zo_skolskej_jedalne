@@ -1,4 +1,4 @@
-#vlozenie modulov
+#vlozenie modulu
 import tkinter
 
 #nastavenie platna a jeho rozmerov
